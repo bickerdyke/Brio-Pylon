@@ -5,6 +5,7 @@
  * Brio
  * Hape
  * Eichhorn
+ * IKEA
  * ...
 
 With this design, the track is raised to 63mm.
@@ -18,4 +19,4 @@ With this design, the track is raised to 63mm.
 ## Version history
 
 * v1.0 2021-02-21 Initial release
-* v1.1 2021-02-?? Readme, Photo & License update
+* v1.1 2021-02-25 Readme, Photo & License update
